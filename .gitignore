@@ -97,3 +97,46 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache
+sysinfo.txt
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+
+# Crash logs
+*.stackdump
+
+# Packages / builds
+*.apk
+*.aab
+*.unitypackage
+
+# Addressables
+/Assets/AddressableAssetsData/*/*.bin*
+
+# Local env
+*.swp
