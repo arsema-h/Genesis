@@ -498,8 +498,6 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -4174286995021789436}
-  - {fileID: 7552479907901206933}
   - {fileID: -4356519309025720564}
   - {fileID: 5740131809435473445}
   - {fileID: 7761328926752908611}
@@ -507,6 +505,7 @@ MonoBehaviour:
   - {fileID: -8795425033310127426}
   - {fileID: -6704125770839641504}
   - {fileID: -4774344938315095237}
+  - {fileID: 7552479907901206933}
   - {fileID: -8543341425508736463}
   - {fileID: -3158400177565102411}
   - {fileID: 7400894131872031906}
@@ -517,6 +516,7 @@ MonoBehaviour:
   - {fileID: -6716099047269752960}
   - {fileID: 2707442550835445337}
   - {fileID: 5923086523520894045}
+  - {fileID: -4174286995021789436}
   m_renderMode: 1
   m_latencyOptimization: 1
   m_autoColorSubmissionMode: 1
@@ -790,8 +790,6 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: 8648413652958307595}
-  - {fileID: -1432207147792207379}
   - {fileID: -1894926710787727267}
   - {fileID: 6079019802147572830}
   - {fileID: 2092383221002158404}
@@ -801,6 +799,7 @@ MonoBehaviour:
   - {fileID: -6106291898343977905}
   - {fileID: -656115946369658142}
   - {fileID: 1936744705122209034}
+  - {fileID: -1432207147792207379}
   - {fileID: -3924897058368686308}
   - {fileID: -7155017704412187950}
   - {fileID: 2320494912373440094}
@@ -811,6 +810,7 @@ MonoBehaviour:
   - {fileID: -8716817035258399697}
   - {fileID: -7788430209694794720}
   - {fileID: -7687060729043870755}
+  - {fileID: 8648413652958307595}
   m_renderMode: 1
   m_latencyOptimization: 0
   m_autoColorSubmissionMode: 1
